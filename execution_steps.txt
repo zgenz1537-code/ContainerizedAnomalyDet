@@ -1,0 +1,19 @@
+Install - Python 3.11.9
+Install - VSCode
+Install Python Packages -
+    - tensorflow==2.15.0
+    - pandas
+    - numpy
+    - matplotlib
+    - seaborn
+    - tqdm
+    - prettytable
+    - scikit-learn
+    - keras
+    - river
+Execute
+    - prepare.ipynb
+    - preprocess.ipynb
+    - train1.ipynb
+    - train2.ipynb
+    - train3.ipynb
