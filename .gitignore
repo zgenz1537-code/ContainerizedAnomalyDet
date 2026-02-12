@@ -1,0 +1,9 @@
+# VS Code
+.vscode/
+
+# Ignore all files inside Data/source
+Data/source/*
+
+# Keep the directory structure (optional)
+!Data/source/.gitkeep
+*.mp4

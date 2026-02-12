@@ -1,0 +1,6 @@
+Metrics,Values
+Accuracy,0.9997
+Precision,0.9968
+Recall,0.9652
+F1-Score,0.9793
+MCC,0.9800
