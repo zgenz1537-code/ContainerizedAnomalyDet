@@ -3,6 +3,7 @@
 
 # Ignore all files inside Data/source
 Data/source/*
+Data/data/*
 
 # Keep the directory structure (optional)
 !Data/source/.gitkeep
